@@ -1,4 +1,4 @@
-<h2 align="center">✨ ¡Bienvenido a mi GitHub! 👋 Soy <strong>Leydi Paipa</strong> ✨</h2>
+<h2 align="center">✨ ¡Bienvenido a mi GitHub! 👋 Soy <strong>Leydi Hernandez</strong> ✨</h2>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6E24FF,100:00D4FF&height=200&section=header&text=Leydi%20Paipa&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
