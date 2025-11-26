@@ -5,7 +5,7 @@
 </p>
 
 <h3 align="center">💻 Analista y Desarrolladora Full Stack</h3>
-<h4 align="center">Node.js · NestJS · React · PostgreSQL · Express · TypeORM</h4>
+<h4 align="center">Node.js · Nest.js · React.js · PostgreSQL · Express · TypeORM</h4>
 <h4 align="center">Administradora de Empresas | Enfoque en Soluciones Tecnológicas</h4>
 
 ---
