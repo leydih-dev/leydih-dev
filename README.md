@@ -10,7 +10,7 @@
 
 ---
 
-## 🧑‍💼 Sobre mí
+##  Sobre mí
 Soy estudiante del último trimestre en la tecnología de **Análisis y Desarrollo de Software (SENA)**.  
 También participé en el *Bootcamp Mujeres Digitales 2025*, fortaleciendo mis habilidades como desarrolladora **Full Stack**.
 
