@@ -10,15 +10,16 @@
 
 ---
 
-## 🧑‍💼 **Sobre mí**
-Estudiante del último trimestre de la tecnología en **Análisis y Desarrollo de Software (SENA)**.  
-También formé parte del *Bootcamp Mujeres Digitales 2025*, fortaleciendo mis habilidades técnicas en desarrollo **Full Stack**.
+## 🧑‍💼 Sobre mí
+Soy estudiante del último trimestre en la tecnología de **Análisis y Desarrollo de Software (SENA)**.  
+También participé en el *Bootcamp Mujeres Digitales 2025*, fortaleciendo mis habilidades como desarrolladora **Full Stack**.
 
 Me apasiona crear soluciones tecnológicas eficientes, escalables y orientadas al usuario. Combino mi visión administrativa con la lógica del desarrollo para optimizar procesos, estructurar proyectos y resolver problemas con enfoque profesional.
 
 ---
 
-## 🛠️ **Tech Stack**
+## 🛠️ Tech Stack
+
 ### **Backend**
 <p>
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
@@ -49,34 +50,37 @@ Me apasiona crear soluciones tecnológicas eficientes, escalables y orientadas a
 
 ---
 
-## 📌 **Proyectos Destacados**
-### 🔹 **Sistema de Contratación**  
+## 📌 Proyectos Destacados
+
+### 🔹 **Sistema de Contratación**
 **Tecnologías:** React · Node.js · Express · PostgreSQL  
-- Backend con API REST documentada con Swagger  
-- CRUD completo y validaciones  
+- API REST documentada con Swagger  
+- CRUD completo con validaciones  
 - Gestión de usuarios y roles  
-- Manejo de base de datos PostgreSQL  
-🔗 *Repositorio:* *(https://github.com/madisprorecselper-commits/react-sisstema-contratacion)*
+- Integración con base de datos PostgreSQL  
+🔗 **Repositorio:** https://github.com/madisprorecselper-commits/react-sisstema-contratacion
 
 ---
 
 ### 🔹 **Granjita San Martín**
-**Tecnologías:** Nest.js · PostgreSQL  
-- Construcción de módulos para gestión interna  
-- Conexion Back/Base de datos CRUD completo en cada entidad Dto
-🔗 *Repositorio:* *(https://github.com/leydih-dev/granjita-san-martin)*
+**Tecnologías:** NestJS · PostgreSQL  
+- Construcción de módulos completos  
+- Conexión Backend/Base de Datos  
+- CRUD completo en cada entidad (DTO)  
+🔗 **Repositorio:** https://github.com/leydih-dev/granjita-san-martin
 
 ---
 
 ### 🔹 **Proyecto Amuna**
-**Tecnologías:** Nest.js . TypeORM . Swagger . Docker . postgreSQL
+**Tecnologías:** NestJS · TypeORM · Swagger · Docker · PostgreSQL  
 - Componentes reutilizables  
-- Control de estados manejo de errores encriptado de ID
-🔗 *Repositorio:* *(https://github.com/Mymelodynvn/Amuna)*
+- Control de estados y manejo de errores  
+- Encriptación de IDs  
+🔗 **Repositorio:** https://github.com/Mymelodynvn/Amuna
 
 ---
 
-## 📊 **GitHub Stats**
+## 📊 GitHub Stats
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=leydih-dev&show_icons=true&theme=dracula"/>
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leydih-dev&layout=compact&theme=dracula"/>
@@ -84,9 +88,11 @@ Me apasiona crear soluciones tecnológicas eficientes, escalables y orientadas a
 
 ---
 
-## 🌐 **Sígueme o contáctame**
+## 🌐 Sígueme o contáctame
 <p align="center">
-  <a href="https://www.linkedin.com/in/leydi-sena-hernandez-paipa-a87835386"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/leydi-sena-hernandez-paipa-a87835386">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
 
 ---
