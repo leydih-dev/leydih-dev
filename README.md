@@ -1,7 +1,7 @@
 <h2 align="center">✨ ¡Bienvenido a mi GitHub! 👋 Soy <strong>Leydi Hernandez</strong> ✨</h2>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6E24FF,100:00D4FF&height=200&section=header&text=Leydi%20Paipa&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
+  <<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6E24FF,100:00D4FF&height=200&section=header&text=Leydi%20Hernandez&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
 </p>
 
 <h3 align="center">💻 Analista y Desarrolladora Full Stack</h3>
@@ -90,7 +90,7 @@ Me apasiona crear soluciones tecnológicas eficientes, escalables y orientadas a
 
 ## 🌐 Sígueme o contáctame
 <p align="center">
-  <a href="https://www.linkedin.com/in/leydi-sena-hernandez-paipa-a87835386">
+  <a href="www.linkedin.com/in/leydi-hernandez-paipa">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
